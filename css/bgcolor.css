@@ -1,0 +1,10 @@
+div{
+background-color: aqua;
+width: 50%;
+background-image: url("../image/1626006234840.jpg");
+height: 500px;
+color: azure;
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+}
